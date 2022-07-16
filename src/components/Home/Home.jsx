@@ -1,5 +1,5 @@
 import React from 'react'
-import heroBanner from '../../assets/bg3.png'
+import heroBanner from '../../assets/bgMain.png'
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 import { Link } from "react-scroll";
 const Home = () => {
